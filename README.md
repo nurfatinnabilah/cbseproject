@@ -11,3 +11,6 @@ CMS users will be able to:
 
 ●	View annually reports for the club 
 
+To get further information about the system, here is the link for the demo video:-
+https://youtu.be/MuNzvhNpHwE 
+
